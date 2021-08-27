@@ -1,3 +1,4 @@
 # ojt3_eversun
 first commit
-/n test line #2
+test line #2
+git init
