@@ -1,4 +1,7 @@
 # ojt3_eversun
-first commit
-test line #2
-git init
+can we pretend that airplanes
+in the night sky
+are like shooting stars
+i could really use a wish right now
+wish right now
+wish right now
